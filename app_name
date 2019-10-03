@@ -1,2 +1,2 @@
-app_name=ContractBillingPreferences_v1
-git_url=http://nasbldsvr.nasco.com:7990/scm/exp/ContractBillingPreferences_v1.git
+app_name=ContractBillingPreferences_v1__variable_from_git
+git_url=http://nasbldsvr.nasco.com:7990/scm/exp/ContractBillingPreferences_v1.git__variable_from_git
